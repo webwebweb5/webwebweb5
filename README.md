@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js and Tailwindcss**
 
-- 👨‍💻 All of my projects are available at [Still working on it...](Still working on it...)
+- 👨‍💻 All of my projects are available at (Still working on it...)
 
 - 💬 Ask me about **react**
 

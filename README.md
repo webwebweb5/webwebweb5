@@ -1,8 +1,8 @@
 <h1 align="center">Hi There, 👋</h1>
-<p>
+<!-- <p>
   <img align="right" alt="hsr kafka" width="200" src="https://upload-os-bbs.hoyolab.com/upload/2023/02/24/195737631/db3f319b6da2b939e2043979805eb3bc_6613439704627825701.jpg?x-oss-process=image/resize,s_1000/quality,q_80/auto-orient,0/interlace,1/format,jpg" />
   <img align="right" alt="hsr hanabi" width="200" src="https://pbs.twimg.com/media/GGRWyeXXwAEmhOn?format=jpg&name=medium" />
-</p>
+</p> -->
 <!-- <details>
   <summary><h3>ℹ️ About Me</h3></summary> -->
 

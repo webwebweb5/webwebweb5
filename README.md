@@ -6,7 +6,7 @@
 <!-- <details>
   <summary><h3>ℹ️ About Me</h3></summary> -->
 
-- 🔭 I’m currently working on **My portfolio website**
+- 🔭 I’m currently working on **My Freelance Works**
 
 - 🌱 I’m currently learning **Next.js and Tailwindcss**
 
@@ -26,7 +26,6 @@
 
 [![js Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=JavaScript&logoColor=F7DF1E)](#)
 [![java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=ED8B00)](#)
-[![python Badge](https://img.shields.io/badge/Python-417FB0?style=for-the-badge&labelColor=black&logo=python&logoColor=417FB0)](#)
 
 <h5 align="left">📌 Front-end:</h5>
 
@@ -34,8 +33,6 @@
 [![nextdotjs Badge](https://img.shields.io/badge/-next.js-000000?style=for-the-badge&labelColor=white&logo=nextdotjs&logoColor=000000)](#)
 [![redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&labelColor=black&logo=redux&logoColor=593D88)](#)
 [![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&labelColor=black&logo=mui&logoColor=0081CB)](#)
-[![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&labelColor=white&logo=astro&logoColor=2C2052)](#)
-[![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&labelColor=white&logo=radix-ui&logoColor=161618)](#)
 ![Vite](https://img.shields.io/badge/vite-%23A651FE.svg?style=for-the-badge&labelColor=black&logo=vite&logoColor=A651FE)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
